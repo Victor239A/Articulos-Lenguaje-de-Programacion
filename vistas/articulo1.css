@@ -31,7 +31,8 @@
 }
 
 .imagen{
-   padding-left: 38rem;
-   width: 80rem;
-   height: 20rem;
+    padding-left: 38rem;
+    width: 80rem;
+    height: 20rem;
+    padding-top: 1rem;
 }
