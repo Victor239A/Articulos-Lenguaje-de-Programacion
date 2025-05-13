@@ -12,12 +12,12 @@
 }
 .titulo2{
     font-size: 2rem;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .texto {
     font-size: 2rem;
-    margin-top: -1rem;
+    margin-top: 1rem;
 }
 .textoo{
     padding: 2rem;
