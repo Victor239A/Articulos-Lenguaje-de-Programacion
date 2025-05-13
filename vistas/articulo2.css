@@ -1,0 +1,37 @@
+.articulo1{
+    padding: 20px;
+}
+
+
+.titulo {
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.titulo2{
+    font-size: 2rem;
+    color: white;
+}
+
+.texto {
+    font-size: 2rem;
+    margin-top: -1rem;
+}
+.textoo{
+    padding: 2rem;
+    font-size: 2rem;    
+}
+
+.titulozzz{
+    margin-top: 3rem;
+    font-size: 2rem;
+
+}
+
+.imagen{
+    padding-left: 38rem;
+    width: 80rem;
+    height: 30rem;
+}
